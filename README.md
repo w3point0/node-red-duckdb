@@ -32,13 +32,11 @@ Step 3: Install DuckDB
 ![image](https://github.com/w3point0/node-red-duckdb/assets/993459/043095d5-88e9-441f-95ef-e95ae9862c47)
 
 ```
-/home/w3p0/.node-red
-npm install
-
-done!
+cd ~/.node-red
+npm install duckdb --save
 ```
-
 Done!
+
 ## Modify Your settings.js File
 
 Step: 1 Add your favorite node package. For this example a simple word-to-number package will be used.
