@@ -1,6 +1,7 @@
 # Node-RED and DuckDB
 
-![image](https://github.com/w3point0/node-red-duckdb/assets/993459/dfe7dae4-6de7-4b78-a7c0-13225020602f)
+<img src="https://github.com/w3point0/node-red-duckdb/assets/993459/dfe7dae4-6de7-4b78-a7c0-132
+
 
 
 ## Environment
