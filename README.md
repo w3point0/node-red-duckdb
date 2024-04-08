@@ -31,8 +31,10 @@ Step 3: Install DuckDB
 
 ![image](https://github.com/w3point0/node-red-duckdb/assets/993459/043095d5-88e9-441f-95ef-e95ae9862c47)
 
+Note: We could have configured DuckDB during the setup phase. However, unfortunately, this defaults to the latest version. To specify a version, we need to set it up in both `package.json` and `settings.js`.
+
 ```
-npm install duckdb --save
+npm install duckdb@0.10.1 --save
 ```
 Done!
 
