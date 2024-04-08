@@ -21,7 +21,7 @@ You will see the .node-red.
 Step 2: cd into .node-red
 
 ```
-cd .node-red
+cd ~/.node-red
 ```
 
 ![image](https://github.com/w3point0/node-red-duckdb/assets/993459/1044b0b0-71ba-4f37-a44a-ee401dfe6e54)
@@ -32,7 +32,6 @@ Step 3: Install DuckDB
 ![image](https://github.com/w3point0/node-red-duckdb/assets/993459/043095d5-88e9-441f-95ef-e95ae9862c47)
 
 ```
-cd ~/.node-red
 npm install duckdb --save
 ```
 Done!
