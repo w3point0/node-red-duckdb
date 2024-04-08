@@ -45,11 +45,11 @@ vi settings.js
 
 ![image](https://github.com/w3point0/node-red-duckdb/assets/993459/1636216d-f875-473a-b54a-63003b4d52ad)
 
-# Use DuckDB with Node-RED
-
-
-
 Step 2: Restart node-red
 You will now be able to use this package. 
 
 Done!
+
+# Use DuckDB with Node-RED
+
+Step 1 Start 
