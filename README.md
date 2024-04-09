@@ -47,6 +47,9 @@ You can copy and paste this code to try it yourself. Happy Visual Coding!
 
 > You can copy this directly into Node-RED.
 
+![image](https://github.com/w3point0/node-red-duckdb/assets/993459/34ed8cb0-0123-4723-8791-fe5f2cc3118c)
+
+
 > Something amazing happened today 3/9/24. I copied the below JSON and ChatGPT created a Node Express server. And it worked on first try. Only thing missing was the error execption handling. Which, I think I could with some direction have GPT correct. Happy Prompting!!!!
 
 ```
