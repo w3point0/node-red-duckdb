@@ -22,6 +22,12 @@
 
 ![image](https://github.com/w3point0/node-red-duckdb/assets/993459/b545d2a7-8785-4765-9f9b-415f9790c309)  
 
+![image](https://github.com/w3point0/node-red-duckdb/assets/993459/d94ebb76-58ba-40c8-93b4-99be4ea6571a)
+
+![image](https://github.com/w3point0/node-red-duckdb/assets/993459/03a5caa2-9e00-4f85-813f-bc15028e4b6d)
+
+![image](https://github.com/w3point0/node-red-duckdb/assets/993459/aba706a8-5697-4bc5-b554-bf4ceeec36e5)
+
 
 
 
