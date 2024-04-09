@@ -14,6 +14,8 @@
 
 # Setup DuckDB with No-Code Package Version Latest
 
+![image](https://github.com/w3point0/node-red-duckdb/assets/993459/3dba7b67-8163-4dde-acea-188b61fb5058)
+<img src="https://github.com/w3point0/node-red-duckdb/assets/993459/650c9b19-74f0-448d-9f51-27b057c2d9fb" width="50%" height="50%">  
 
 # Setup DuckDB Set Package Version
 
