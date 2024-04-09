@@ -56,6 +56,4 @@ You will now be able to use this package.
 
 Done!
 
-# Use DuckDB with Node-RED
 
-Step 1 Start 
