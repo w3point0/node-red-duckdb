@@ -1,6 +1,7 @@
 # Node-RED and DuckDB
 
-<img src="https://github.com/w3point0/node-red-duckdb/assets/993459/650c9b19-74f0-448d-9f51-27b057c2d9fb" width="50%" height="50%">
+<img src="https://github.com/w3point0/node-red-duckdb/assets/993459/650c9b19-74f0-448d-9f51-27b057c2d9fb" width="50%" height="50%">  
+
 >Definition: A Silent SIP refers to a micro YouTube video characterized by the absence of spoken dialogue, relying solely on visual actions and written commentary. Designed for viewers who prefer concise, straightforward examples without lengthy explanations, it serves those already familiar with the subject matter or those seeking to uncover subtle hints. This format embodies the concept of incremental knowledge—Kaizen—in a silent yet impactful manner.
 
 
