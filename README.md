@@ -10,7 +10,11 @@ Node-RED and DuckDB have become an exceptional combination, allowing the use of 
 - Node-RED v3.8.1  
 - Ubuntu 22.04.3 LTS
 
-# Install DuckDB Within the Node-RED Environment 
+# Setup DuckDB with No-Code
+
+
+# Install DuckDB Within the Node-RED Environment and Ensure Package Versions
+
 
 ## Install Duck DB into the .node-red directory
 
