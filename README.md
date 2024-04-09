@@ -14,8 +14,23 @@
 
 # Setup DuckDB with No-Code Package Version Latest
 
+### The Flow  
 ![image](https://github.com/w3point0/node-red-duckdb/assets/993459/3dba7b67-8163-4dde-acea-188b61fb5058)
-<img src="https://github.com/w3point0/node-red-duckdb/assets/993459/650c9b19-74f0-448d-9f51-27b057c2d9fb" width="50%" height="50%">  
+
+#### Setup  **Get/ DuckDB** 
+![image](https://github.com/w3point0/node-red-duckdb/assets/993459/5f7386e6-0553-4bd5-a3d7-d4a1aa28d792)  
+
+![image](https://github.com/w3point0/node-red-duckdb/assets/993459/b545d2a7-8785-4765-9f9b-415f9790c309)  
+
+
+
+
+#### Prepared Statement
+
+### Response 
+
+---
+Extra Information
 
 # Setup DuckDB Set Package Version
 
