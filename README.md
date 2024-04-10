@@ -54,7 +54,7 @@ You can copy and paste this code to try it yourself. Happy Visual Coding!
 
 **See Node code after the json section below.**  
 
-> BTW: It also completed this same code in Python3 and Rust. 
+> BTW: ChatGPT also completed this same code in Python3 and Rust. 
 
 ```
 [
