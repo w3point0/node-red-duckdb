@@ -51,6 +51,7 @@ You can copy and paste this code to try it yourself. Happy Visual Coding!
 
 
 > Something amazing happened today 3/9/24. I copied the below JSON and ChatGPT created a Node Express server. And it worked on first try. Only thing missing was the error execption handling. Which, I think I could with some direction have GPT correct. Happy Prompting!!!!
+**See Node code after the json section below.**
 
 ```
 [
@@ -228,6 +229,48 @@ You can copy and paste this code to try it yourself. Happy Visual Coding!
 ]
 ```
 
+Node Code generated from the above JSON.
+
+```
+const express = require('express');
+const { Database } = require('duckdb');
+const app = express();
+const port = 3000;
+
+// Initialize DuckDB
+let db = new Database(':memory:');
+db = db.connect();
+
+// Route for '/duckdb'
+app.get('/duckdb', async (req, res) => {
+    try {
+        // Perform database operations
+        await db.run('CREATE TABLE a (i INTEGER)');
+        const stmt = db.prepare('INSERT INTO a VALUES (?)');
+        for (let i = 0; i < 10; i++) {
+            stmt.run(i);
+        }
+        stmt.finalize();
+
+        db.all('SELECT * FROM a', (err, results) => {
+            if (err) {
+                console.error(err);
+                return res.status(500).send("Error fetching data");
+            }
+            // Use template literal for simplicity
+            res.send(`DuckDB Snapshot: ${JSON.stringify(results)} !`);
+        });
+    } catch (error) {
+        console.error(error);
+        res.status(500).send("An error occurred");
+    }
+});
+
+app.listen(port, () => {
+    console.log(`App listening at http://localhost:${port}`);
+});
+
+```
 
 ---
 Extra Information about package Versioning. The function setup, although it works, does not except package versions, so sad!
